@@ -1,0 +1,2 @@
+# kodluyoruzFirstWeek
+First Week Homeworks
